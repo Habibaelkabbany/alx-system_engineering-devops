@@ -1,2 +1,2 @@
 #!/bin/bash
-alias ls=rm 0-alias hello.txt Hi.txt
+alias ls="rm *"
