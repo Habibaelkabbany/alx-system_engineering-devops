@@ -1,2 +1,2 @@
 #!/bin/bash
-grep hi /etc/passwd
+sort|uniq -u
